@@ -17,6 +17,6 @@ import lombok.Setter;
 @AllArgsConstructor
 @Entity
 @Table(name = "vehicles")
-public class Vehicles extends Service implements Serializable {
+public class Vehicle extends Service implements Serializable {
 
 }
